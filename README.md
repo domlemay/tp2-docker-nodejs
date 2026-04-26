@@ -31,8 +31,8 @@ L'application sera accessible à l'adresse : [http://localhost:3000](http://loca
 ## Port utilisé
 
 | Port conteneur | Port hôte |
-|---------------|-----------|
-| 3000          | 3000      |
+| -------------- | --------- |
+| 3000           | 3000      |
 
 ---
 
@@ -47,5 +47,5 @@ docker run -d -p 3000:3000 domlemay/tp2-nodejs
 
 ## Liens de remise
 
-- **Dépôt GitHub :** https://github.com/domlemay/tp2-docker-nodejs
-- **Image Docker Hub :** https://hub.docker.com/r/domlemay/tp2-nodejs
+- **Dépôt GitHub :** [https://github.com/domlemay/tp2-docker-nodejs](https://github.com/domlemay/tp2-docker-nodejs)
+- **Image Docker Hub :** [https://hub.docker.com/r/domlemay/tp2-nodejs](https://hub.docker.com/r/domlemay/tp2-nodejs)
